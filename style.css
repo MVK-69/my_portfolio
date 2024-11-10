@@ -46,7 +46,6 @@ li a{
     position: relative;
     color: white;
     font-weight: 500;
-    height: 20rem;
 }
 li a::before{
     position: absolute;
@@ -159,4 +158,6 @@ section{
 .socials i:hover{
     transform: scale(1.1);
 }
+
+
 
